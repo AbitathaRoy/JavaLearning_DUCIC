@@ -150,9 +150,4 @@ public class file_handling
             }
         }
     }
-
-    void print_test(String str)
-    {
-        System.out.println(str);
-    }
 }
